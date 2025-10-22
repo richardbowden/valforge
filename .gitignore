@@ -1,0 +1,9 @@
+validation.gen.go
+main
+val2
+valforge
+internal/.DS_Store
+tests/internal/valgen
+tests/valforge_test
+.DS_Store
+internal/valgen
